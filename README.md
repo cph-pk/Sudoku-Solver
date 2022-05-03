@@ -13,14 +13,14 @@ To use the Sudoku solver, you have to decide the grid size, row size and column 
 - `BOX_ROW_SIZE`: the size of the individual rows
 - `BOX_COLUMN_SIZE`: the size of the individual columns
 
-For example if you have a 9x9 grid.
-`GRID_SIZE = 9`
-`BOX_ROW_SIZE = 3`
+For example if you have a 9x9 grid.<br>
+`GRID_SIZE = 9`<br>
+`BOX_ROW_SIZE = 3`<br>
 `BOX_COLUMN_SIZE = 3`
 
-Or if the grid is 12x12.
-`GRID_SIZE = 12`
-`BOX_ROW_SIZE = 3`
+Or if the grid is 12x12.<br>
+`GRID_SIZE = 12`<br>
+`BOX_ROW_SIZE = 3`<br>
 `BOX_COLUMN_SIZE = 4`
 
 #### How to enter the sudoku you want to solve
