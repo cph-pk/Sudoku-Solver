@@ -3,7 +3,7 @@
 A Sudoku solver made in Java!
 Sudoku is a logic game, where you fill in numbers from 1-9 in a 9x9 grid. In Sudoku, each row, column, and 3x3 sub-grid must contain all numbers from 1-9.
 
-This Sudoku solver can also be uused to solve 6x6, 12x12 and 16x16 grid by altering the numbers in the api.
+This Sudoku solver can also be used to solve 6x6, 12x12 and 16x16 grid by altering the numbers in the api.
 
 ## How to use the Sudoku solver
 
